@@ -1,10 +1,10 @@
 # badfox-mysql
-一个简单的mysql端口弱口令爆破脚本
+一个简单的基于python3的mysql端口弱口令爆破脚本
 
 
 ## 使用方式：
 
-python .\badfoxsql.py **ip地址** **端口**
+python .\badfoxsql.py **ip地址** **端口号**
 
 
 ## 可以改进的方式：
